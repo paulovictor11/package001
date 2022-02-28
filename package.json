@@ -1,0 +1,8 @@
+{
+  "name": "package001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:paulovictor11/package001.git",
+  "author": "Paulo Victor <37181462+paulovictor11@users.noreply.github.com>",
+  "license": "MIT"
+}
